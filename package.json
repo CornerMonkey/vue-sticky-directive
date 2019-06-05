@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "resize-sensor": "0.0.6",
-    "sticky-sidebar": "git+https://github.com/abouolia/sticky-sidebar.git#master"
+    "sticky-sidebar": "abouolia/sticky-sidebar#master"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
