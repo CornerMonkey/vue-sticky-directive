@@ -44,10 +44,6 @@
     "vue-markdown": "^2.2.4",
     "vue-template-compiler": "^2.5.17"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/renatodeleao/vue-sticky-directive.git"
-  },
   "keywords": [
     "vue",
     "sticky",
